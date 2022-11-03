@@ -38,3 +38,17 @@ public class test {
         iScanner.close();
     }
 }
+// сортировка массива
+
+//     public static int[] buildArray(int[] nums)
+//     {
+//         // nums = {0, 2, 1, 5, 3, 4}
+//         int[] ans = new int[nums.length];
+//         for (int i = 0; i < nums.length; i++) {
+//             int newIndex = nums[i];
+//             ans[i] = nums[newIndex];
+//         }
+
+//         // ans = {0, 1, 2, 3, 4, 5}
+
+//         return ans;
