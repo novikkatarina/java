@@ -10,7 +10,7 @@
 // *Подумать над тем, как сделать минимальное количество команд
 
 public class task1 {
-    public class app {
+
         public static void main(String[] args) {
             int a = 2;
             int b = 11;
@@ -40,4 +40,4 @@ public class task1 {
             while (result < b);
         }
     }
-}
+
